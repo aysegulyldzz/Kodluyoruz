@@ -1,0 +1,14 @@
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\bin\Debug\net9.0\operatorler.exe
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\bin\Debug\net9.0\operatorler.deps.json
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\bin\Debug\net9.0\operatorler.runtimeconfig.json
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\bin\Debug\net9.0\operatorler.dll
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\bin\Debug\net9.0\operatorler.pdb
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\obj\Debug\net9.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\obj\Debug\net9.0\operatorler.AssemblyInfoInputs.cache
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\obj\Debug\net9.0\operatorler.AssemblyInfo.cs
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\obj\Debug\net9.0\operatorler.csproj.CoreCompileInputs.cache
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\obj\Debug\net9.0\operatorler.dll
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\obj\Debug\net9.0\refint\operatorler.dll
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\obj\Debug\net9.0\operatorler.pdb
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\obj\Debug\net9.0\operatorler.genruntimeconfig.cache
+c:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\operatorler\obj\Debug\net9.0\ref\operatorler.dll

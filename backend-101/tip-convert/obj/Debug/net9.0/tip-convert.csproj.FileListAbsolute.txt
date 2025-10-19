@@ -1,0 +1,14 @@
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\bin\Debug\net9.0\tip-convert.exe
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\bin\Debug\net9.0\tip-convert.deps.json
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\bin\Debug\net9.0\tip-convert.runtimeconfig.json
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\bin\Debug\net9.0\tip-convert.dll
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\bin\Debug\net9.0\tip-convert.pdb
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\obj\Debug\net9.0\tip-convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\obj\Debug\net9.0\tip-convert.AssemblyInfoInputs.cache
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\obj\Debug\net9.0\tip-convert.AssemblyInfo.cs
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\obj\Debug\net9.0\tip-convert.csproj.CoreCompileInputs.cache
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\obj\Debug\net9.0\tip-convert.dll
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\obj\Debug\net9.0\refint\tip-convert.dll
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\obj\Debug\net9.0\tip-convert.pdb
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\obj\Debug\net9.0\tip-convert.genruntimeconfig.cache
+C:\Users\ayildiz\Documents\Yazılıma_Dair\Kodluyoruz\backend-101\tip-convert\obj\Debug\net9.0\ref\tip-convert.dll
