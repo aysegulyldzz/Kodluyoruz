@@ -1,0 +1,61 @@
+/**************** body ****************/
+
+body {
+    background-color: #FFEAEA;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+article {
+    text-decoration: #748DAE;
+    border: 2px solid #748DAE;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+}
+header, footer {
+    text-align: center;
+    padding: 10px;
+    text-emphasis-color: #748DAE;
+}
+footer {
+    background-color: #9ECAD6;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+header ul {
+    list-style-type: none;
+    padding: 0;
+}
+header li {
+    display: inline;
+    margin-right: 100px;
+}
+header a {
+    text-decoration: none;
+    color: black;
+}
+h1, h2 {
+    text-align: right;
+}
+p {
+    margin: 20px;
+}
+img {
+    display: inline;
+    margin-left: 55px; margin-top: 20px;
+    border: 3px solid #748DAE;
+    border-radius: 10px;
+    vertical-align: top;
+    container: inline;
+}
+a {
+    color: #2c3e50;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+#id-atama {
+    background-color: #F0F8FF;
+}

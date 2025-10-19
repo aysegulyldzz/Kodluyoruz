@@ -1,0 +1,72 @@
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: white;
+      margin: 0;
+    }
+
+    /* Logo alanı */
+    .logo {
+      margin-top: 20px;
+    }
+
+    /* Arama kutusu ve butonlar */
+    .search-area {
+      background-color: #ccc;  
+      margin: 20px 0;
+      padding: 25px 0;
+    }
+
+    input[type="text"] {
+      width: 300px;
+      padding: 4px;
+    }
+
+    input[type="submit"] {
+      margin: 5px;
+    }
+
+    /* Alt kısımdaki 3 sütunlu bölüm */
+    .footer {
+      display: flex;
+      justify-content: center;
+      background-color: #66CCCC;
+      margin-top: 2px;
+      background: #8fd1eb;
+      background: linear-gradient(90deg, rgba(143, 209, 235, 1) 0%, rgba(40, 188, 191, 1) 35%, rgba(13, 224, 172, 1) 73%);  
+    }
+
+    .column {
+      flex: 1;
+      padding: 10px;
+      border-left: 3px solid #ffffff;
+      border-top: 1px solid #ffffff;
+    }
+
+    .column:first-child {
+      border-left: none;
+    }
+
+    a {
+      color: blue;
+      text-decoration: underline;
+      display: block;
+      margin: 5px 0;
+    }
+
+    /* Copyright metni */
+    .copyright {
+      margin: 20px;
+      font-size: small;
+    }
+
+    /* button:hover {
+    background-color: lightblue;
+    } */
+
+    @media (max-width: 600px) {
+    body {
+    font-size: 14px;
+    flex-direction: column;
+    }
+    }
